@@ -8,4 +8,4 @@ Polymorphism: Allowing objects of different classes to be treated as objects of 
 
 Abstraction: Simplifying complex systems by exposing only essential details and hiding implementation specifics.
 
-This project will guide you through building simple C++ programs that demonstrate these OOP principles, making it easier to understand how they fit into real-world software development.
+This project will guide you through building simple C++ programs that demonstrate these OOP principles, making it easier to understand how they fit into real-world software development. 🚀
